@@ -6,7 +6,7 @@
 		"key_path": "gophish_admin.key"
 	},
 	"phish_server": {
-		"listen_url": "mzito.herokuapp.com",
+		"listen_url": "mzito.herokuapp.com:443",
 		"use_tls": true,
 		"cert_path": "example.crt",
 		"key_path": "example.key"
